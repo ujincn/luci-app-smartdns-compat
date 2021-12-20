@@ -6,8 +6,8 @@ LUCI_TITLE:=Luci for smartdns server
 LUCI_DEPENDS:=+smartdns
 LUCI_PKGARCH:=all
 PKG_NAME:=luci-app-smartdns-compat
-PKG_VERSION:=2020.05.04
-PKG_RELEASE:=31
+PKG_VERSION:=2021.08.27
+PKG_RELEASE:=35
 
 #PKG_BUILD_DIR := $(BUILD_DIR)/$(PKG_NAME)-$(PKG_VERSION)
 
